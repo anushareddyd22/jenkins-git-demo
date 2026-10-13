@@ -1,1 +1,1 @@
-# jenkins-git-demo
+Learning automatic builds with Jenkins and GitHub.
